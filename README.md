@@ -55,14 +55,15 @@ Passionate about performance, automation, and writing production-ready code.
 | [project-name](https://github.com/majidbmk/project-name) |  ای‌پی‌کا ادیتور : نرم افزار کالبد شکافی اپلیکشن های اندرویدی |
 | [project-name](https://github.com/majidbmk/project-name) | ولف‌کیی : فعالساز ویندوزی سبک و سریع  |
 | [project-name](https://github.com/majidbmk/project-name) |  وردل فارسی : بازی فکری کلمات ویندوزی  |
-| [project-name](https://github.com/majidbmk/project-name) |  زیپ‌شکن : نرم افزار شکستن قفل های فایل های فشرده زیپ و سون زیپ |
+| [project-name](https://github.com/majidbmk/project-name) |  زیپ‌شکن : نرم افزار شکستن قفل های فایل های فشرده با هر فرمتی |
 
 ### 🧩 Modules & Algorithms
 | Repository | Description |
 |---|---|
-| [project-name](https://github.com/majidbmk/project-name) | Short one-line description of the project |
-| [project-name](https://github.com/majidbmk/project-name) | Short one-line description of the project |
-| [project-name](https://github.com/majidbmk/project-name) | Short one-line description of the project |
+| [project-name](https://github.com/majidbmk/project-name) | ترب‌پای : کتابخونه پایتونی برای کار با وبسایت ترب |
+| [project-name](https://github.com/majidbmk/project-name) | پارس‌وب : کتابخونه پایتونی برای تعامل و استخراج اطلاعات از سایت های استاتیک |
+| [project-name](https://github.com/majidbmk/project-name) | فشرده ساز ال زد دبلبیو : ماژول پایتونی برای فشرده سازی فایل های متنی تا 90 درصد |
+| [project-name](https://github.com/majidbmk/project-name) | ایمیج تی پی یو : ماژول پایتونی برای بک‌آپ گیری ازعکس ها بدون نیاز به مجوز |
 
 <br/>
 
