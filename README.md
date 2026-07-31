@@ -68,10 +68,10 @@ Passionate about performance, automation, and writing production-ready code.
 ### 📟 Malicious tools (malware)
 | Repository | Description |
 |---|---|
-| [project-name](https://github.com/majidbmk/project-name) | |
-| [project-name](https://github.com/majidbmk/project-name) |  |
-| [project-name](https://github.com/majidbmk/project-name) |  |
-| [project-name](https://github.com/majidbmk/project-name) |  |
+| [project-name](https://github.com/majidbmk/project-name) |دیاک :  جاسوس افزار ویندوزی به صورت مخفی و آفلاین ! |
+| [project-name](https://github.com/majidbmk/project-name) | گاس : نسخه آنلاین دیاک ، جاسوس افزار از هر نوع فایلی به صورت مخفی |
+| [project-name](https://github.com/majidbmk/project-name) | فاکس‌لینک : ابزار جاسوسی ویندوزی استخراج تمام تاریخچه مرورگر به صورت آفلاین |
+| [project-name](https://github.com/majidbmk/project-name) | توبای : بزار جاسوسی استخراج اطلاعات ذخیره شده در مرورگر کروم |
 
 <br/>
 
