@@ -26,10 +26,7 @@ Passionate about performance, automation, and writing production-ready code.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=majidbmk&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majidbmk&layout=compact&theme=radical&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=majidbmk&theme=radical&hide_border=true" />
