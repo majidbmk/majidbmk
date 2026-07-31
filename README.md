@@ -39,16 +39,23 @@ Passionate about performance, automation, and writing production-ready code.
 ### 🌐 Web Projects
 | Repository | Description |
 |---|---|
-| [project-name](https://github.com/majidbmk/project-name) | Short one-line description of the project |
-| [project-name](https://github.com/majidbmk/project-name) | Short one-line description of the project |
-| [project-name](https://github.com/majidbmk/project-name) | Short one-line description of the project |
+| [project-name](https://github.com/majidbmk/project-name) | فنی‌چی : پلتفرم استخدامی نیروی ساختمانی در مشهد  |
+| [project-name](https://github.com/majidbmk/project-name) | گل‌تایم : پلتفرم فوتبالی ، پخش زنده و اخبار ورزشی |
+| [project-name](https://github.com/majidbmk/project-name) | استادکار : پلتفرم استخدام متخصص در هرات |
+| [project-name](https://github.com/majidbmk/project-name) | اطلس : یک فراجستوجوگر متن باز و رایگان |
+| [project-name](https://github.com/majidbmk/project-name) | دکترشهر : پلتفرم یافتن پزشک برای سازمان تامین اجتماعی مشهد |
 
 ### 💻 Software Projects
 | Repository | Description |
 |---|---|
-| [project-name](https://github.com/majidbmk/project-name) | Short one-line description of the project |
-| [project-name](https://github.com/majidbmk/project-name) | Short one-line description of the project |
-| [project-name](https://github.com/majidbmk/project-name) | Short one-line description of the project |
+| [project-name](https://github.com/majidbmk/project-name) |  کت‌روید : نرم افزار مدیریت و دانلود  نرم افزار با همکاری فارسروید |
+| [project-name](https://github.com/majidbmk/project-name) |  اِنسی :  نرم افزارمدیریت درایو ها و استخراج اطلاعات سیستم |
+| [project-name](https://github.com/majidbmk/project-name) |  دانر : نرم افزار مدیریت دانلو به صورت موازی |
+| [project-name](https://github.com/majidbmk/project-name) |  سان‌بک : نرم افزار بک‌آپ گیری ویندوزی با ویژگی های هوشمند |
+| [project-name](https://github.com/majidbmk/project-name) |  ای‌پی‌کا ادیتور : نرم افزار کالبد شکافی اپلیکشن های اندرویدی |
+| [project-name](https://github.com/majidbmk/project-name) | ولف‌کیی : فعالساز ویندوزی سبک و سریع  |
+| [project-name](https://github.com/majidbmk/project-name) |  وردل فارسی : بازی فکری کلمات ویندوزی  |
+| [project-name](https://github.com/majidbmk/project-name) |  زیپ‌شکن : نرم افزار شکستن قفل های فایل های فشرده زیپ و سون زیپ |
 
 ### 🧩 Modules & Algorithms
 | Repository | Description |
