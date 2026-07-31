@@ -65,6 +65,14 @@ Passionate about performance, automation, and writing production-ready code.
 | [project-name](https://github.com/majidbmk/project-name) | فشرده ساز ال زد دبلبیو : ماژول پایتونی برای فشرده سازی فایل های متنی تا 90 درصد |
 | [project-name](https://github.com/majidbmk/project-name) | ایمیج تی پی یو : ماژول پایتونی برای بک‌آپ گیری ازعکس ها بدون نیاز به مجوز |
 
+### 📟 Malicious tools (malware)
+| Repository | Description |
+|---|---|
+| [project-name](https://github.com/majidbmk/project-name) | |
+| [project-name](https://github.com/majidbmk/project-name) |  |
+| [project-name](https://github.com/majidbmk/project-name) |  |
+| [project-name](https://github.com/majidbmk/project-name) |  |
+
 <br/>
 
 ## 📫 Contact Me
