@@ -39,8 +39,8 @@ Passionate about performance, automation, and writing production-ready code.
 ### 🌐 Web Projects
 | Repository | Description |
 |---|---|
-| [project-name](https://github.com/majidbmk/project-name) | فنی‌چی : پلتفرم استخدامی نیروی ساختمانی در مشهد  |
-| [project-name](https://github.com/majidbmk/project-name) | گل‌تایم : پلتفرم فوتبالی ، پخش زنده و اخبار ورزشی |
+| [more](https://github.com/majidbmk/fanichii) | فنی‌چی : پلتفرم استخدامی نیروی ساختمانی در مشهد  |
+| [more](https://github.com/majidbmk/goal_time) | گل‌تایم : پلتفرم فوتبالی ، پخش زنده و اخبار ورزشی |
 | [project-name](https://github.com/majidbmk/project-name) | استادکار : پلتفرم استخدام متخصص در هرات |
 | [project-name](https://github.com/majidbmk/project-name) | اطلس : یک فراجستوجوگر متن باز و رایگان |
 | [project-name](https://github.com/majidbmk/project-name) | دکترشهر : پلتفرم یافتن پزشک برای سازمان تامین اجتماعی مشهد |
@@ -62,7 +62,7 @@ Passionate about performance, automation, and writing production-ready code.
 |---|---|
 | [project-name](https://github.com/majidbmk/project-name) | ترب‌پای : کتابخونه پایتونی برای کار با وبسایت ترب |
 | [project-name](https://github.com/majidbmk/project-name) | پارس‌وب : کتابخونه پایتونی برای تعامل و استخراج اطلاعات از سایت های استاتیک |
-| [project-name](https://github.com/majidbmk/project-name) | فشرده ساز ال زد دبلبیو : ماژول پایتونی برای فشرده سازی فایل های متنی تا 90 درصد |
+| [more](https://github.com/majidbmk/compresor) | فشرده ساز ال زد دبلبیو : ماژول پایتونی برای فشرده سازی فایل های متنی تا 90 درصد |
 | [project-name](https://github.com/majidbmk/project-name) | ایمیج تی پی یو : ماژول پایتونی برای بک‌آپ گیری ازعکس ها بدون نیاز به مجوز |
 
 ### 📟 Malicious tools (malware)
