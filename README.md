@@ -32,10 +32,6 @@ Passionate about performance, automation, and writing production-ready code.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=majidbmk&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=majidbmk&theme=redical&hide_border=true" />
-</p>
-
 <br/>
 
 ## 🚀 Projects
