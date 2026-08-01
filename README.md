@@ -42,7 +42,7 @@ Passionate about performance, automation, and writing production-ready code.
 | [GO](https://github.com/majidbmk/fanichii) | فنی‌چی : پلتفرم استخدامی نیروی ساختمانی در مشهد  |
 | [GO](https://github.com/majidbmk/goal_time) | گل‌تایم : پلتفرم فوتبالی ، پخش زنده و اخبار ورزشی |
 | [GO](https://github.com/majidbmk/ostadkar) | استادکار : پلتفرم استخدام متخصص در هرات |
-| [project-name](https://github.com/majidbmk/project-name) | اطلس : یک فراجستوجوگر متن باز و رایگان |
+| [GO](https://github.com/majidbmk/atlas) | اطلس : یک فراجستوجوگر متن باز و رایگان |
 | [project-name](https://github.com/majidbmk/project-name) | دکترشهر : پلتفرم یافتن پزشک برای سازمان تامین اجتماعی مشهد |
 
 ### 💻 Software Projects
