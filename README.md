@@ -39,7 +39,7 @@ Passionate about performance, automation, and writing production-ready code.
 ### 🌐 Web Projects
 | Repository | Description |
 |---|---|
-| [GO](https://github.com/majidbmk/ostadkar) | استادکار : پلتفرم استخدام متخصص در هرات |
+| [GO](https://github.com/majidbmk/ostadkar) | استادکار : پلتفرم استخدام متخصص   |
 | [GO](https://github.com/majidbmk/goal_time) | گل‌تایم : پلتفرم فوتبالی ، پخش زنده و اخبار ورزشی |
 | [GO](https://github.com/majidbmk/fanichii) | فنی‌چی : پلتفرم استخدامی نیروی ساختمانی در مشهد  |
 | [GO](https://github.com/majidbmk/atlas) | اطلس : یک فراجستوجوگر متن باز و رایگان |
