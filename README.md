@@ -70,7 +70,7 @@ Passionate about performance, automation, and writing production-ready code.
 | [project-name](https://github.com/majidbmk/project-name) | گاس : نسخه آنلاین دیاک ، جاسوس افزار از هر نوع فایلی به صورت مخفی |
 | [project-name](https://github.com/majidbmk/project-name) | فاکس‌لینک : ابزار جاسوسی ویندوزی استخراج تمام تاریخچه مرورگر به صورت آفلاین |
 | [project-name](https://github.com/majidbmk/project-name) | توبای : بزار جاسوسی استخراج اطلاعات ذخیره شده در مرورگر کروم |
-| [project-name](https://github.com/majidbmk/project-name) |  زیپ‌شکن : نرم افزار شکستن قفل های فایل های فشرده با هر فرمتی |
+| [project-name](https://github.com/majidbmk/project-name) |  زیپ‌شکن : ابزار شکستن قفل فایل های فشرده با هر فرمتی |
 
 <br/>
 
