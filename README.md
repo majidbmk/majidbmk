@@ -54,7 +54,6 @@ Passionate about performance, automation, and writing production-ready code.
 | [project-name](https://github.com/majidbmk/project-name) |  وردل فارسی : بازی فکری با کلمات   |
 | [project-name](https://github.com/majidbmk/project-name) |  کت‌روید : نرم افزار مدیریت و دانلود  برنامه  با همکاری فارسروید |
 | [project-name](https://github.com/majidbmk/project-name) |  دانر : نرم افزار مدیریت دانلو به صورت موازی |
-| [project-name](https://github.com/majidbmk/project-name) |  زیپ‌شکن : نرم افزار شکستن قفل های فایل های فشرده با هر فرمتی |
 | [project-name](https://github.com/majidbmk/project-name) |  سان‌بک : نرم افزار بک‌آپ گیری ویندوزی با ویژگی های هوشمند |
 
 ### 🧩 Modules & Algorithms
@@ -63,7 +62,6 @@ Passionate about performance, automation, and writing production-ready code.
 | [project-name](https://github.com/majidbmk/project-name) | ترب‌پای : کتابخونه پایتونی برای کار با وبسایت ترب |
 | [project-name](https://github.com/majidbmk/project-name) | پارس‌وب : کتابخونه پایتونی برای تعامل و استخراج اطلاعات از سایت های استاتیک |
 | [GO](https://github.com/majidbmk/compresor) | فشرده ساز ال زد دبلبیو : ماژول پایتونی برای فشرده سازی فایل های متنی تا 90 درصد |
-| [project-name](https://github.com/majidbmk/project-name) | ایمیج تی پی یو : ماژول پایتونی برای بک‌آپ گیری ازعکس ها بدون نیاز به مجوز |
 
 ### 📟 Malicious tools (malware)
 | Repository | Description |
@@ -72,6 +70,7 @@ Passionate about performance, automation, and writing production-ready code.
 | [project-name](https://github.com/majidbmk/project-name) | گاس : نسخه آنلاین دیاک ، جاسوس افزار از هر نوع فایلی به صورت مخفی |
 | [project-name](https://github.com/majidbmk/project-name) | فاکس‌لینک : ابزار جاسوسی ویندوزی استخراج تمام تاریخچه مرورگر به صورت آفلاین |
 | [project-name](https://github.com/majidbmk/project-name) | توبای : بزار جاسوسی استخراج اطلاعات ذخیره شده در مرورگر کروم |
+| [project-name](https://github.com/majidbmk/project-name) |  زیپ‌شکن : نرم افزار شکستن قفل های فایل های فشرده با هر فرمتی |
 
 <br/>
 
