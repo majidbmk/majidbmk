@@ -52,8 +52,7 @@ Passionate about performance, automation, and writing production-ready code.
 | [GO](https://github.com/majidbmk/insy) |  اِنسی : نرم افزار ویندوزی که مشخصات درایو ها و سخت افزار سیستم را نشان میدهد |
 | [GO](https://github.com/majidbmk/wolfkey) | ولف‌کیی : فعالساز ویندوزی سبک و سریع  |
 | [GO](https://github.com/majidbmk/wordle) |  وردل فارسی : بازی فکری با کلمات   |
-| [project-name](https://github.com/majidbmk/project-name) |  کت‌روید : نرم افزار مدیریت و دانلود  برنامه  با همکاری فارسروید |
-| [project-name](https://github.com/majidbmk/project-name) |  دانر : نرم افزار مدیریت دانلو به صورت موازی |
+| [GO](https://github.com/majidbmk/duner) |  دانر : نرم افزار مدیریت دانلو به صورت موازی |
 | [project-name](https://github.com/majidbmk/project-name) |  سان‌بک : نرم افزار بک‌آپ گیری ویندوزی با ویژگی های هوشمند |
 
 ### 🧩 Modules & Algorithms
