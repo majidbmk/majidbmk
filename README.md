@@ -53,7 +53,7 @@ Passionate about performance, automation, and writing production-ready code.
 | [GO](https://github.com/majidbmk/wolfkey) | ولف‌کیی : فعالساز ویندوزی سبک و سریع  |
 | [GO](https://github.com/majidbmk/wordle) |  وردل فارسی : بازی فکری با کلمات   |
 | [GO](https://github.com/majidbmk/duner) |  دانر : نرم افزار مدیریت دانلو به صورت موازی |
-| [project-name](https://github.com/majidbmk/project-name) |  سان‌بک : نرم افزار بک‌آپ گیری ویندوزی چند نخی |
+| [GO](https://github.com/majidbmk/sunback) |  سان‌بک : نرم افزار بک‌آپ گیری ویندوزی چند نخی |
 
 ### 🧩 Modules & Algorithms
 | Repository | Description |
