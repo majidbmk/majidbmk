@@ -82,6 +82,9 @@ Passionate about performance, automation, and writing production-ready code.
   <a href="https://www.linkedin.com/in/itsmajid-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://t.me/the_developerman" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
