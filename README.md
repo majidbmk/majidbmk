@@ -58,7 +58,7 @@ Passionate about performance, automation, and writing production-ready code.
 ### 🧩 Modules & Algorithms
 | Repository | Description |
 |---|---|
-| [project-name](https://github.com/majidbmk/project-name) | ترب‌پای : کتابخونه پایتونی برای کار با وبسایت ترب |
+| [GO](https://github.com/majidbmk/torob) | ترب‌پای : کتابخونه پایتونی برای کار با وبسایت ترب |
 | [project-name](https://github.com/majidbmk/project-name) | پارس‌وب : کتابخونه پایتونی برای تعامل و استخراج اطلاعات از سایت های استاتیک |
 | [GO](https://github.com/majidbmk/compresor) | فشرده ساز ال زد دبلبیو : ماژول پایتونی برای فشرده سازی فایل های متنی تا 90 درصد |
 
