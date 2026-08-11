@@ -71,8 +71,7 @@ Passionate about performance, automation, and writing production-ready code.
 | [GO](https://github.com/majidbmk/zipshekan) |  زیپ‌شکن : ابزار شکستن قفل فایل های فشرده با هر فرمتی |
 |Coming soon | توبای : بزار جاسوسی استخراج اطلاعات ذخیره شده در مرورگر کروم  به صورت آنلاین|
 
-### ✨ staet UP
-
+### ✨ StartUP
 My main goal in getting into programming was to build my own ideas.  
 My biggest goal is to found my own IT company that has two or more software products.  
 I want to define myself within a company or a software achievement—like a startup—grow it, and challenge myself.  
@@ -83,7 +82,7 @@ It wouldn't hurt to mention these on this page :
 | Repository | Description |
 |---|---|
 | [GO](https://github.com/majidbmk/ejarehgram) |اجاره گرام :  پلتفرم اشتراک گذاری دارایی |
-| I will introduce it here after it is built. | ایده دوم  |
+| I will introduce it here after it is built. | ایده دوم|
 
 <br/>
 
