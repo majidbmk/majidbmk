@@ -68,8 +68,8 @@ Passionate about performance, automation, and writing production-ready code.
 | [GO](https://github.com/majidbmk/diac) |دیاک :  جاسوس افزار ویندوزی به صورت مخفی و آفلاین  |
 | [GO](https://github.com/majidbmk/gos) | گاس : نسخه آنلاین دیاک ، جاسوس افزار از هر نوع فایلی به صورت مخفی |
 | [GO](https://github.com/majidbmk/foxlink) | فاکس‌لینک : ابزار جاسوسی  استخراج تمام لینک های کلیک شده  به صورت آفلاین |
-| [project-name](https://github.com/majidbmk/project-name) | توبای : بزار جاسوسی استخراج اطلاعات ذخیره شده در مرورگر کروم  به صورت آنلاین|
-| [project-name](https://github.com/majidbmk/project-name) |  زیپ‌شکن : ابزار شکستن قفل فایل های فشرده با هر فرمتی |
+| [GO](https://github.com/majidbmk/zipshekan) |  زیپ‌شکن : ابزار شکستن قفل فایل های فشرده با هر فرمتی |
+|Coming soon | توبای : بزار جاسوسی استخراج اطلاعات ذخیره شده در مرورگر کروم  به صورت آنلاین|
 
 <br/>
 
