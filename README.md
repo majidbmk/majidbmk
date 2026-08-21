@@ -20,6 +20,8 @@ Passionate about performance, automation, and writing production-ready code.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Podman-892CA0?style=flat-square&logo=podman&logoColor=white"/>
+  
 </p>
 
 <br/>
